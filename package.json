@@ -73,11 +73,11 @@
     "kurento-client-core": "^6.0.0",
     "kurento-client-elements": "^6.0.0",
     "kurento-client-filters": "^6.0.0",
-    "kurento-jsonrpc": "arrai-innovations/kurento-jsonrpc-js#master",
+    "kurento-jsonrpc": "arrai-innovations/kurento-jsonrpc-js#62b79b7",
     "minimist": "^1.2.0",
     "promise": "7.1.1",
     "promisecallback": "0.0.4",
-    "reconnect-ws": "arrai-innovations/reconnect-ws.git"
+    "reconnect-ws": "arrai-innovations/reconnect-ws.git#0d7510b"
   },
   "devDependencies": {
     "bower": "^1.0.0",
